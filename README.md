@@ -43,7 +43,10 @@ El repositorio contiene los siguientes documentos:
 - ejercicio_fase_1.ipynb
 - ejercicio_fase_2.ipynb
 - ejercicio_fase_3_y_4.ipynb
-6. **Este README:** resumen del proyecto, técnicas utilizadas y contenidos del repositorio.
+
+6. **Conclusiones**
+
+7. **Este README:** resumen del proyecto, técnicas utilizadas y contenidos del repositorio.
 
 **Nota:** Esta es una práctica académica. Verás que está repleta de notas para mi propio aprendizaje y, por supuesto, para ayudarte a ti si las necesitas. Es posible que algunas decisiones, graficos o comprobaciones no tengan sentido, pero eso forma parte del aprendizaje.
 
