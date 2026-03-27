@@ -37,7 +37,7 @@ El repositorio contiene los siguientes documentos:
 3. **CSV limpios:**
 - df_activity_clean.csv
 - df_history_clean.csv
-4. **CSV unidos:** combinación de los .csv limpios para análisis integrales.
+4. **CSV limpios unidos:** combinación de los .csv limpios para análisis integrales = documentos_unidos.csv
 
 5. **Ejercicios en Jupyter Notebook:**
 - ejercicio_fase_1.ipynb
