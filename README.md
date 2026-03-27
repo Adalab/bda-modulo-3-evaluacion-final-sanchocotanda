@@ -45,6 +45,6 @@ El repositorio contiene los siguientes documentos:
 - ejercicio_fase_3_y_4.ipynb
 6. **Este README:** resumen del proyecto, técnicas utilizadas y contenidos del repositorio.
 
-**Nota:** Este proyecto tiene un fin y un enfoque académico. Es por ello que está repelto de notas para mi propio aprendizaje y , por supuesto, apra ayudarte a ti si als necesitas. Algunas decisiones puede que no tengan sentido, pero las he intentado con fines educativos.
+**Nota:** Esta es una práctica académica. Verás que está repleta de notas para mi propio aprendizaje y, por supuesto, para ayudarte a ti si las necesitas. Es posible que algunas decisiones, graficos o comprobaciones no tengan sentido, se han ejecutado con fines educativos y como práctica.
 
 Gracias por leer este README :)
