@@ -30,6 +30,7 @@ El proyecto permite:
 El repositorio contiene los siguientes documentos:
 
 1. **Notas sobre los documentos:** archivo .txt con observaciones iniciales sobre los CSV originales y la estructura de los datos.
+
 2. **CSV originales:**
 - customer_Flight_activities.csv
 - customer_loyalty_history.csv
@@ -37,12 +38,13 @@ El repositorio contiene los siguientes documentos:
 - df_activity_clean.csv
 - df_history_clean.csv
 4. **CSV unidos:** combinación de los .csv limpios para análisis integrales.
-5. ** Ejercicios en Jupyter Notebook:**
+
+5. **Ejercicios en Jupyter Notebook:**
 - ejercicio_fase_1.ipynb
 - ejercicio_fase_2.ipynb
 - ejercicio_fase_3_y_4.ipynb
 6. **Este README:** resumen del proyecto, técnicas utilizadas y contenidos del repositorio.
 
-**Nota:** Este proyecto tiene un enfoque académico y de aprendizaje, con distintos enfoques de análisis exploratorio y visualización para comprender mejor comos se comportan los datos, todo con fines de aprendizaje. 
+**Nota:** Este proyecto tiene un fin y un enfoque académico. Es por ello que está repelto de notas para mi propio aprendizaje y , por supuesto, apra ayudarte a ti si als necesitas. Algunas decisiones puede que no tengan sentido, pero las he intentado con fines educativos.
 
 Gracias por leer este README :)
